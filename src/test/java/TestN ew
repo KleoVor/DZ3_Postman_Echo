@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.given;
 
 
-class Test {
+class TestNew {
     @Test
     void PostmanEcho() {
 
